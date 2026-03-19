@@ -55,14 +55,9 @@
 ## 文件结构
 
 ```
-ticket2/
 ├── wifi_analyzer.py      # 主程序源码
 ├── dragon.ico            # 应用图标
-├── WiFiAnalyzer.md       # 本文档
-├── dist/
-│   └── WiFiAnalyzer.exe  # 打包后的可执行文件（11MB）
-├── build/                # PyInstaller 构建临时文件
-└── WiFiAnalyzer.spec     # PyInstaller 配置文件
+├── readme.md             # 本文档
 ```
 
 ## 运行方式
